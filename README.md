@@ -1,3 +1,3 @@
 # docker-python
 
-練習環境
+Personal practice environment for docker use.
