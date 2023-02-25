@@ -1,6 +1,6 @@
 # docker-python
 
-Personal practice environment for docker use.
+Personal environment for docker use.
 
 ---
 ---
