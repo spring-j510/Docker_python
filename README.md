@@ -18,7 +18,7 @@ docker compose exec python3 bash
 ---
 
 ## dockerに変更がない場合
-もしくは、↓画像のstartをクリック
+↓画像のstartをクリック
 
 ![screenshot](screenshot.png)
 
