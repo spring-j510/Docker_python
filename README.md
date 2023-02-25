@@ -20,7 +20,7 @@ docker compose exec python3 bash
 ---
 
 ## dockerに変更がない場合
-↓画像のstartをクリック
+↓画像のstartをクリック(vscodeの機能からもできる。)
 
 ![screenshot](screenshot.png)
 
