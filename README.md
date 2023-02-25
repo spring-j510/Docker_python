@@ -2,6 +2,8 @@
 
 Personal practice environment for docker use.
 
+---
+---
 
 ## dockerに変更がある場合
 イメージの作成とbuild
