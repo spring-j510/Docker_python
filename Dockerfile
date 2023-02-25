@@ -15,3 +15,4 @@ RUN pip install --upgrade pip
 RUN pip install --upgrade setuptools
 
 RUN python -m pip install jupyterlab
+RUN python -m pip install numpy
