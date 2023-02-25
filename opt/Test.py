@@ -20,3 +20,5 @@ print(arr_float)
 # 配列通しの計算を + で表現できます。
 arr_sum = arr_int32 + arr_float
 print(arr_sum)
+
+print("OK")
