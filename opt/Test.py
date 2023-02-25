@@ -1,14 +1,10 @@
-import math
-import sys
+from def_main import main
 
-def main():
-    val = float(sys.argv[1])
-    print(math.radians(val))
 
 if __name__ == "__main__":
     main()
 
-print("Test")
+print("HelloWorld")
 
 # numpyライブラリをインポート
 import numpy as np
