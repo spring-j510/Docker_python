@@ -3,7 +3,6 @@
 This is an environment for running python on docker.
 
 ---
----
 
 ## If there are changes to docker
 Image creation and build
